@@ -1,0 +1,30 @@
+{
+  "name": "hongkai",
+  "version": "2.0.0",
+  "description": "description of demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongkai1993/text.git"
+  },
+  "author": "hongkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongkai1993/text/issues"
+  },
+  "homepage": "https://github.com/hongkai1993/text#readme",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}
